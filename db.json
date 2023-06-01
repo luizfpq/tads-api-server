@@ -2,11 +2,16 @@
   "posts": [
     { "id": 1, "title": "Estudar React" },
     { "id": 2, "title": "Estudar States" },
-    { "id": 3, "title": "Estudar Props" }
+    { "id": 3, "title": "Estudar Props" },
+    { "id": 4, "title": "Estudar react-router-dom" },
+    { "id": 4, "title": "Estudar styled components e variant" },
+    { "id": 4, "title": "Entender conexões com API" },
+    { "id": 4, "title": "Domine CSS (Flexbox e Grid)" }
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 2, "body": "Aprenda React Hooks, ao menos useState e useEffect (facil)", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
