@@ -28,23 +28,5 @@
     "id": 5,
     "title": "Estudar styled components e variant",
     "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 6,
-    "title": "Entender conexões com API",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 7,
-    "title": "Domine CSS (Flexbox e Grid)",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 8,
-    "title": "Dominar React Hooks, ao menos useState e useEffect",
-    "completed": false
   }
 ]
