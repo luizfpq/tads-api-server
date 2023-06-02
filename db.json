@@ -1,19 +1,50 @@
-{
-  "posts": [
-    { "id": 1, "title": "Estudar React" },
-    { "id": 2, "title": "Estudar States" },
-    { "id": 3, "title": "Estudar Props" },
-    { "id": 4, "title": "Estudar react-router-dom" },
-    { "id": 4, "title": "Estudar styled components e variant" },
-    { "id": 4, "title": "Entender conexões com API" },
-    { "id": 4, "title": "Domine CSS (Flexbox e Grid)" }
-    
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "Aprenda React Hooks, ao menos useState e useEffect (facil)", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Estudar React",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Estudar States",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Estudar Props",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Estudar react-router-dom",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Estudar styled components e variant",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "Entender conexões com API",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "Domine CSS (Flexbox e Grid)",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "title": "Dominar React Hooks, ao menos useState e useEffect",
+    "completed": false
   }
-}
+]
